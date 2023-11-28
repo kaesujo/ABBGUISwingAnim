@@ -3,9 +3,7 @@ package com.kae.abbguiswing;
 public class ABB {
     private Nodo raiz;
 
-    public ABB() {
-        this.raiz = null; // redundante, feito por desencargo de consciencia
-    }
+    public ABB() { }
 
     public ABB(int[] lista) {
         raiz = null;

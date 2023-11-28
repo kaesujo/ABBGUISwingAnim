@@ -14,8 +14,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f74a5f37-95bf-4026-bd44-e0726906b71c" name="Changes" comment="eh">
+    <list default="true" id="f74a5f37-95bf-4026-bd44-e0726906b71c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ABB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ABBGUISwing$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ABBGUISwing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/Nodo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/VisualABB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/VisualNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/VisualNodePanel$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/VisualNodePanel$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/VisualNodePanel$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/VisualNodePanel$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/VisualNodePanel$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/VisualNodePanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/Zoomable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ZoomableBinarySearchTreeGUI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ZoomableBinarySearchTreeGUI$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ZoomableBinarySearchTreeGUI$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ZoomableBinarySearchTreeGUI$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ZoomableBinarySearchTreeGUI$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ZoomableBinarySearchTreeGUI$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ZoomableBinarySearchTreeGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ZoomableTreePanel$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ZoomableTreePanel$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ZoomableTreePanel$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ZoomableTreePanel.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kae/abbguiswing/ABB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kae/abbguiswing/ABB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/ABBGUISwing3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +82,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2YNQp7mdrmE2qWTEFpFOXCZtPCt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,8 +92,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
@@ -147,6 +178,8 @@
       <workItem from="1700618448791" duration="205000" />
       <workItem from="1700621931033" duration="379000" />
       <workItem from="1701202460322" duration="938000" />
+      <workItem from="1701203406117" duration="1018000" />
+      <workItem from="1701207046425" duration="221000" />
     </task>
     <task id="LOCAL-00001" summary="eh">
       <option name="closed" value="true" />
@@ -164,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701203149637</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="AGORA SIM POXA">
+      <option name="closed" value="true" />
+      <created>1701203771207</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701203771207</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,14 +216,28 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="eh" />
-    <option name="LAST_COMMIT_MESSAGE" value="eh" />
+    <MESSAGE value="AGORA SIM POXA" />
+    <option name="LAST_COMMIT_MESSAGE" value="AGORA SIM POXA" />
   </component>
 </project>
