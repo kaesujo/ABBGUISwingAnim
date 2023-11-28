@@ -1,2 +1,3 @@
 # ABBGUISwingAnim
-O segundo passo para a visualização da Árvore Binária de Busca, com lógica de animação.
+Este projeto é a iteração direta da visualização de uma Árvore Binária de Busca (ABB).
+O segundo passo foi introduzir a lógica de animação e seu refino será mantido neste repositório.
