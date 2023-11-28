@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="All Places" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ABBGUISwing:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f74a5f37-95bf-4026-bd44-e0726906b71c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2YNQp7mdrmE2qWTEFpFOXCZtPCt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "F:/_JavaProjects/_NetBeans/ABBGUISwingAnim/pom.xml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "terminal",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ABBGUISwing">
+    <configuration name="ABBGUISwing" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="20" />
+      <option name="MAIN_CLASS_NAME" value="com.kae.abbguiswing.ABBGUISwing" />
+      <module name="ABBGUISwing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kae.abbguiswing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisualNodePanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kae.abbguiswing.VisualNodePanel" />
+      <module name="ABBGUISwing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kae.abbguiswing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ABBGUISwing" />
+      <item itemvalue="Application.VisualNodePanel" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VisualNodePanel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f74a5f37-95bf-4026-bd44-e0726906b71c" name="Changes" comment="" />
+      <created>1700363738278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700363738278</updated>
+      <workItem from="1700363739334" duration="12349000" />
+      <workItem from="1700413803572" duration="2011000" />
+      <workItem from="1700415922152" duration="322000" />
+      <workItem from="1700418485330" duration="4993000" />
+      <workItem from="1700424702130" duration="4419000" />
+      <workItem from="1700431801288" duration="47000" />
+      <workItem from="1700431868794" duration="4586000" />
+      <workItem from="1700437432742" duration="4407000" />
+      <workItem from="1700450625305" duration="5016000" />
+      <workItem from="1700488114775" duration="8501000" />
+      <workItem from="1700498020655" duration="1440000" />
+      <workItem from="1700500557497" duration="4467000" />
+      <workItem from="1700517838676" duration="6863000" />
+      <workItem from="1700539560717" duration="861000" />
+      <workItem from="1700540452798" duration="426000" />
+      <workItem from="1700602601880" duration="320000" />
+      <workItem from="1700603100417" duration="2229000" />
+      <workItem from="1700618448791" duration="205000" />
+      <workItem from="1700621931033" duration="379000" />
+      <workItem from="1701202460322" duration="311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
