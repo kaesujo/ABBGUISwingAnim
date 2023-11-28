@@ -14,35 +14,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f74a5f37-95bf-4026-bd44-e0726906b71c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ABB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ABBGUISwing$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ABBGUISwing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/Nodo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/VisualABB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/VisualNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/VisualNodePanel$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/VisualNodePanel$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/VisualNodePanel$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/VisualNodePanel$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/VisualNodePanel$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/VisualNodePanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/Zoomable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ZoomableBinarySearchTreeGUI$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ZoomableBinarySearchTreeGUI$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ZoomableBinarySearchTreeGUI$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ZoomableBinarySearchTreeGUI$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ZoomableBinarySearchTreeGUI$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ZoomableBinarySearchTreeGUI$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ZoomableBinarySearchTreeGUI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ZoomableTreePanel$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ZoomableTreePanel$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ZoomableTreePanel$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kae/abbguiswing/ZoomableTreePanel.class" afterDir="false" />
+    <list default="true" id="f74a5f37-95bf-4026-bd44-e0726906b71c" name="Changes" comment="teste :(">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kae/abbguiswing/ABB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kae/abbguiswing/ABB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/ABBGUISwing3.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +51,9 @@
         <option name="url" value="https://github.com/kaesujo/ABBGUISwingAnim.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -179,7 +156,7 @@
       <workItem from="1700621931033" duration="379000" />
       <workItem from="1701202460322" duration="938000" />
       <workItem from="1701203406117" duration="1018000" />
-      <workItem from="1701207046425" duration="221000" />
+      <workItem from="1701207046425" duration="403000" />
     </task>
     <task id="LOCAL-00001" summary="eh">
       <option name="closed" value="true" />
@@ -205,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701203771207</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="teste :(">
+      <option name="closed" value="true" />
+      <created>1701207306109</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701207306109</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +223,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="eh" />
     <MESSAGE value="AGORA SIM POXA" />
-    <option name="LAST_COMMIT_MESSAGE" value="AGORA SIM POXA" />
+    <MESSAGE value="teste :(" />
+    <option name="LAST_COMMIT_MESSAGE" value="teste :(" />
   </component>
 </project>
